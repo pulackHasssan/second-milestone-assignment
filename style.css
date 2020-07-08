@@ -1,0 +1,86 @@
+*{
+    transition: all .5s ease-in-out;
+}
+.container{
+    margin-bottom:50px;
+}
+header{
+    background-color: aliceblue;
+    border-radius: 15px;
+}
+nav{
+    margin-bottom:40px;
+}
+.logo{
+    width: 200px;;
+}
+.nav-item{
+    padding: 0px 10px;
+}
+.nav-item:hover{
+    background-color: green;
+    border-radius: 30px;  
+}
+.nav-link:hover {
+    color:aliceblue !important;
+}
+.choco{
+    color: chocolate;
+}
+.mybtn{
+    background-color: green;
+    padding: 7px 15px;
+    color: cornsilk;
+    border-radius: 30px;
+    border:none;
+}
+.mybtn:hover{
+    background-color: lightgreen;
+}
+img{
+    width: 100%;
+    padding: 10px;
+}
+.cat-img{
+    width: 80px;
+    height: 80px;
+    margin: 0 auto;
+}
+.icon-img{
+    width: 40px;
+}
+.card{
+    border: none;
+    border-radius: 15px;
+}
+.card1{
+    background-color: aliceblue;
+}
+.card1:hover{
+    background-color: white;
+   box-shadow: 10px 10px 10px gray;
+}
+.card2{
+    box-shadow: 10px 10px 10x gray;
+}
+.course-info{
+    margin-top:5px;
+}
+footer{
+    background-color: #373131;
+    color: white;
+    padding-top: 50px;
+}
+.footer-list{
+    list-style-type: none;
+}
+.footer-list li h5{
+    
+}
+.footer-list li a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
